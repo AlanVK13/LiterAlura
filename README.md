@@ -1,11 +1,11 @@
-📚 Catálogo de Libros – Challenge ONE – Java + Spring Boot
+## 📚 Catálogo de Libros – Challenge ONE – Java + Spring Boot
 
 Este proyecto forma parte del Challenge ONE de Alura + Oracle Next Education.
 El objetivo es construir un catálogo de libros y autores con consultas a la API de Gutendex y almacenarlos en base de datos con Spring Boot y JPA.
 
---
+---
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 🔎 Búsqueda de libro por título (consulta a la API https://gutendex.com/books/).
 
@@ -19,7 +19,7 @@ El objetivo es construir un catálogo de libros y autores con consultas a la API
 
 🖥️ Interfaz de interacción por consola, con menú y opciones para el usuario.
 
---
+---
 
 🛠️ Tecnologías utilizadas
 
@@ -32,3 +32,5 @@ El objetivo es construir un catálogo de libros y autores con consultas a la API
 📦 Maven
 
 🔗 Gutendex API
+
+---
